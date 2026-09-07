@@ -1,5 +1,0 @@
-Place the original Winches & Wirecams homepage video in this folder and rename it:
-
-home-hero.mp4
-
-No HTML changes are needed.
